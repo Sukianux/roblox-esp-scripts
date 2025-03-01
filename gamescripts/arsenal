@@ -1,0 +1,3 @@
+-- discord.gg/senpaihook or guns.lol/cursyn
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sukianux/senpaihook/refs/heads/main/keysys2"))()
